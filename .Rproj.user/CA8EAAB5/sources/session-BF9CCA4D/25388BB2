@@ -1,26 +1,24 @@
 {
-    "id": "23AE7225",
-    "path": "~/GitHub/practico-7/practico-7.Rmd",
+    "id": "25388BB2",
+    "path": "~/GitHub/practico-5/practico-5.Rmd",
     "project_path": null,
     "type": "r_markdown",
-    "hash": "664076182",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1677116097200.0,
+    "created": 1677371809393.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "138,0",
-        "scrollLine": "131"
+        "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1676943940,
+    "lastKnownWriteTime": 1675988517,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1676943940,
+    "last_content_update": 1675988517,
     "read_only": false,
     "read_only_alternatives": []
 }
